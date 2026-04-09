@@ -1,0 +1,7 @@
+{
+  "name": "Ashecliffe: The Shutter Island Experience",
+  "description": "An immersive exploration of the mysteries of Shutter Island, featuring character analysis, evidence processing, and an AI-driven psychiatric consultation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
